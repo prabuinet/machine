@@ -1,0 +1,38 @@
+.buttons-div {
+    text-align: center;
+}
+
+.buttons-div button {
+    margin-right: 20px;
+}
+
+#code-line {
+    position: relative;
+}
+
+#code-line .line-ind {
+    position: absolute;
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    color: crimson;
+    top: 12px;
+}
+#code-line img {
+    width: 20px;
+}
+
+#code-line .line-number {
+    font-weight: bold;
+    text-align: right;
+    min-width: 100px;
+}
+
+#vars {
+    color: blueviolet;
+}
+
+#output {
+    width: 200px;
+    height: 200px;
+}
